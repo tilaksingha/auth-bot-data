@@ -4,15 +4,8 @@
     "<#1370511393131991193>"
   ],
   "vips": [],
-  "users": {
-    "test1": {
-      "password_hash": "ac231633580e9f2e03e8ecd16e2e99a8ada1b319770b13c9be8f4937d5bdaa64",
-      "hwid": "N/A",
-      "expiry": "2025-11-11T00:00:00+00:00",
-      "banned": false
-    }
-  },
+  "users": {},
   "meta": {
-    "last_updated": "2025-10-12T09:32:13.842212"
+    "last_updated": "2025-10-12T09:33:05.544961"
   }
 }
