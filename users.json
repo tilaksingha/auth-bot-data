@@ -1,55 +1,8 @@
 {
   "owner_id": "761459615408979989",
-  "channels": [
-    "<#1370511393131991193>"
-  ],
-  "vips": [
-    "1387847767572877382"
-  ],
-  "users": {
-    "t": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1q": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1qa": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1qa11": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1qa11w": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "t1qa11wsd": {
-      "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
-      "hwid": "N/A",
-      "expiry": "2025-10-13T00:00:00+00:00",
-      "banned": false
-    }
-  },
+  "channels": [],
+  "vips": [],
+  "users": {},
   "meta": {
     "last_updated": "2025-10-12T19:16:49.970381"
   }
