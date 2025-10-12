@@ -24,9 +24,15 @@
       "hwid": "N/A",
       "expiry": "2025-10-13T00:00:00+00:00",
       "banned": false
+    },
+    "123we": {
+      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
+      "hwid": "N/A",
+      "expiry": "2025-10-13T00:00:00+00:00",
+      "banned": false
     }
   },
   "meta": {
-    "last_updated": "2025-10-12T20:57:30.910598"
+    "last_updated": "2025-10-12T20:57:34.450834"
   }
 }
