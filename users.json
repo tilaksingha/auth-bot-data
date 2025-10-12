@@ -3,7 +3,9 @@
   "channels": [
     "<#1370511393131991193>"
   ],
-  "vips": [],
+  "vips": [
+    "1387847767572877382"
+  ],
   "users": {
     "t": {
       "password_hash": "e234d97f69f96a7857476d38b7a6af2e702f0f5dd13a80eccf6dd73f7bbd8c90",
