@@ -4,33 +4,8 @@
     "<#1370511393131991193>"
   ],
   "vips": [],
-  "users": {
-    "1": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2055-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "reseller": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2055-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "booster": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2055-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "fuck": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2025-10-18T00:00:00+00:00",
-      "banned": false
-    }
-  },
+  "users": {},
   "meta": {
-    "last_updated": "2025-10-13T20:18:09.856430"
+    "last_updated": "2025-10-13T20:19:02.757387"
   }
 }
