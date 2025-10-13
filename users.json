@@ -70,9 +70,15 @@
       "hwid": "N/A",
       "expiry": "2025-10-14T00:00:00+00:00",
       "banned": false
+    },
+    "qq": {
+      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
+      "hwid": "N/A",
+      "expiry": "2025-10-16T00:00:00+00:00",
+      "banned": false
     }
   },
   "meta": {
-    "last_updated": "2025-10-13T21:01:23.595224"
+    "last_updated": "2025-10-13T21:48:29.878183"
   }
 }
