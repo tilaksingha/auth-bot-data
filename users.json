@@ -10,21 +10,8 @@
     "1402661386294919169",
     "1418841670610587743"
   ],
-  "users": {
-    "1": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2026-10-13T00:00:00+00:00",
-      "banned": false
-    },
-    "danishpapa": {
-      "password_hash": "535635772691c53506fc28f8f2607980490af196014eaff9817405ed9d6dc97e",
-      "hwid": "N/A",
-      "expiry": "2035-10-15T00:00:00+00:00",
-      "banned": false
-    }
-  },
+  "users": {},
   "meta": {
-    "last_updated": "2025-10-15T19:28:10.153255"
+    "last_updated": "2025-10-15T21:55:50.049536"
   }
 }
