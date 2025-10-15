@@ -98,7 +98,7 @@
       "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
       "hwid": "N/A",
       "expiry": "2026-10-15T00:00:00+00:00",
-      "banned": false
+      "banned": true
     }
   },
   "meta": {
