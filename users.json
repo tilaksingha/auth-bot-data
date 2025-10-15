@@ -100,9 +100,15 @@
       "hwid": "N/A",
       "expiry": "2026-10-15T00:00:00+00:00",
       "banned": false
+    },
+    "danishpapa": {
+      "password_hash": "535635772691c53506fc28f8f2607980490af196014eaff9817405ed9d6dc97e",
+      "hwid": "N/A",
+      "expiry": "2035-10-15T00:00:00+00:00",
+      "banned": false
     }
   },
   "meta": {
-    "last_updated": "2025-10-15T19:25:27.277986"
+    "last_updated": "2025-10-15T19:28:10.153255"
   }
 }
