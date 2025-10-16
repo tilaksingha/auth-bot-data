@@ -28,9 +28,15 @@
       "hwid": "N/A",
       "expiry": "2026-04-16T00:00:00+00:00",
       "banned": false
+    },
+    "11221122": {
+      "password_hash": "5437348347ea361a11bf01a5a0a4f53f7ee6854088b055adccfa6f351e73f36f",
+      "hwid": "N/A",
+      "expiry": "2026-10-16T00:00:00+00:00",
+      "banned": false
     }
   },
   "meta": {
-    "last_updated": "2025-10-16T11:58:45.061142"
+    "last_updated": "2025-10-16T12:04:13.121613"
   }
 }
