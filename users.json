@@ -31,7 +31,7 @@
     },
     "11221122": {
       "password_hash": "5437348347ea361a11bf01a5a0a4f53f7ee6854088b055adccfa6f351e73f36f",
-      "hwid": "N/A",
+      "hwid": "178BFBFF00A40F41",
       "expiry": "2026-10-16T00:00:00+00:00",
       "banned": false
     },
@@ -43,6 +43,6 @@
     }
   },
   "meta": {
-    "last_updated": "2025-10-16T13:11:41.6356808Z"
+    "last_updated": "2025-10-16T13:12:01.1320305Z"
   }
 }
