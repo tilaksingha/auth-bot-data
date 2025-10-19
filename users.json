@@ -11,51 +11,8 @@
     "1428613588930527272",
     "7"
   ],
-  "users": {
-    "1": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "178BFBFF00A40F41",
-      "expiry": "2026-10-16T00:00:00+00:00",
-      "banned": false
-    },
-    "dani": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "178BFBFF00A40F41",
-      "expiry": "2026-04-16T00:00:00+00:00",
-      "banned": false
-    },
-    "xtremer": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2026-10-16T00:00:00+00:00",
-      "banned": false
-    },
-    "2": {
-      "password_hash": "0e52ad67dfccdd83b54742cd8357573beecd769b93f92efe8b11e499476abae7",
-      "hwid": "N/A",
-      "expiry": "2026-04-16T00:00:00+00:00",
-      "banned": false
-    },
-    "11221122": {
-      "password_hash": "5437348347ea361a11bf01a5a0a4f53f7ee6854088b055adccfa6f351e73f36f",
-      "hwid": "178BFBFF00A40F41",
-      "expiry": "2026-10-16T00:00:00+00:00",
-      "banned": false
-    },
-    "1011": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "178BFBFF00A40F41",
-      "expiry": "2026-04-16T00:00:00+00:00",
-      "banned": false
-    },
-    "shubham": {
-      "password_hash": "2002f58731dd358aaf9a9c6f985ff387e3186d12d00565c3a566240a185a8d3d",
-      "hwid": "N/A",
-      "expiry": "2027-10-16T00:00:00+00:00",
-      "banned": false
-    }
-  },
+  "users": {},
   "meta": {
-    "last_updated": "2025-10-16T15:53:22.612325"
+    "last_updated": "2025-10-19T17:39:07.777300"
   }
 }
